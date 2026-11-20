@@ -1,0 +1,24 @@
+# Core Multi-Agent & LLM Orchestration
+crewai
+crewai-tools
+google-genai
+langchain-google-genai
+
+# Web Search & Scraping (Primary + Free Fallbacks)
+tavily-python
+duckduckgo-search
+scrapegraphai
+scrapegraph-py
+beautifulsoup4
+requests
+
+# Text Chunking & Local Semantic Embeddings
+langchain-text-splitters
+langchain-experimental
+langchain-community
+langchain-huggingface
+sentence-transformers
+
+# Web UI & Image Compatibility
+gradio
+pillow<13.0
